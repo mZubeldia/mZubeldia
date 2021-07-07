@@ -6,7 +6,7 @@ I love travelling ✈️ and learning about other cultures, especially when food
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning React and looking forward to learning Angular
 - 💬 Ask me about Adalab, CSS and reinventing yourself!
-- ⚡ Fun fact: I switched my World of Warcraft hunter skills for a weightlifting bar 🏋️‍♀️
+- ⚡ Fun fact: I switched my World of Warcraft hunter bow for a weightlifting bar 🏋️‍♀️
 - 😄 Pronouns: She/her
 - 📫 How to reach me: 
      
