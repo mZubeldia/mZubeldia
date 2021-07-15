@@ -4,7 +4,7 @@
 I'm María and I'm a software developer.
 
 I love travelling ✈️ and learning about other cultures, especially when food is involved 🍲  
-I once was a travel counselor and also a translator but I decided to reinvent myself and chose coding for a living! 🖥️
+I once was a travel counsellor and also a translator but I decided to reinvent myself and chose coding for a living! 🖥️
 
 🔭 I’m currently working on my portfolio and improving my Rick and Morty repository 🧪 
 
