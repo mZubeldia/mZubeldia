@@ -6,7 +6,7 @@ I'm María and I'm a software developer.
 I love travelling ✈️ and learning about other cultures, especially when food is involved 🍲  
 I once was a travel counsellor and also a translator but I decided to reinvent myself and chose coding for a living! 🖥️
 
-🔭 I’m currently working on my Marvel Search repository and doing the 30 Days of Vanilla JS Challenge by Wes Bos 🧪 
+🔭 I’m currently working on my Easy Delivery repository and doing the 30 Days of Vanilla JS Challenge by Wes Bos 🧪 
 
 🌱 My focus at the moment is on mastering React, JS and CSS
 
