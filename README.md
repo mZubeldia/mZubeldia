@@ -1,12 +1,12 @@
 ![pattern_memphis-cut](https://user-images.githubusercontent.com/74368515/125063243-88907800-e0af-11eb-9ff4-d7de706336f3.png)
 
 ### Hi there 👋
-I'm María and I'm a software developer.
+I'm [María](https://mzubeldia.github.io/portfolio/) and I'm a software developer.
 
 I love travelling ✈️ and learning about other cultures, especially when food is involved 🍲  
 I once was a travel counsellor and also a translator but I decided to reinvent myself and chose coding for a living! 🖥️
 
-🔭 I’m currently working on my [Easy Delivery](https://github.com/mZubeldia/easy-delivery) repository and doing the [30 Days of Vanilla JS Challenge](https://javascript30.com/) by Wes Bos 🧪 
+🔭 I’m currently working on a [Hangman Game](https://github.com/jarturagames/hangman) repository and doing the [30 Days of Vanilla JS Challenge](https://javascript30.com/) by Wes Bos 🧪 
 
 🌱 My focus at the moment is on mastering React, JS and CSS
 
